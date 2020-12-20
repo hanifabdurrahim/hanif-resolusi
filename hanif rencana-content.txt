@@ -3,9 +3,11 @@ Rencana konten hanif
 Java Script
 + ES6
 + Framework JS
-Angular
+Vie
 React
+Struktur Data Dasar
 PHP framework
 Laravel
 Interview
 Vlogs
+Python
