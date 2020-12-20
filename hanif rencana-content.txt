@@ -3,6 +3,7 @@ Rencana konten hanif
 Java Script
 + ES6
 + Framework JS
+Struktur Data Dasar
 PHP framework
 Interview
 Vlogs
